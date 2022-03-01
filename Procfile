@@ -1,0 +1,1 @@
+web: gunicorn reviewfilter.wsgi --log-file -
